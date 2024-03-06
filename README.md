@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ali Hassan</h1>
-<h3 align="center">A passionate frontend developer from Pakistan</h3>
+<h3 align="center">A passionate frontend developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=s-ali007&label=Profile%20views&color=0e75b6&style=flat" alt="s-ali007" /> </p>
 
@@ -23,7 +23,7 @@
 
 - ⚡ Fun fact **I think I am Not Funny**
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Connect with me:S-ali007</h3>
 <p align="left">
 </p>
 
