@@ -33,8 +33,8 @@
 <h3 align="left">Support:</h3>
 <p><a href="https://buymeacoffee.com/alitechtriy"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="ali007" /></a><a href="https://buymeacoffee.com/alitechtriy"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="ali007" /></a></p><br><br>
 
-<p><img align="left" src="https://github.com/S-ali007&show_icons=true&locale=en&layout=compact" alt="s-ali007" /></p>
-<!-- <script type="text/javascript" src="https://cdnjs.buymeacoffee.com/1.0.0/button.prod.min.js" data-name="bmc-button" data-slug="alitechtriy" data-color="#FFDD00" data-emoji="☕"  data-font="Cookie" data-text="Buy me a coffee" data-outline-color="#000000" data-font-color="#000000" data-coffee-color="#ffffff" ></script> -->
-<p>&nbsp;<img align="center" src="https://github.com/S-ali007&show_icons=true&locale=en" alt="s-ali007" /></p>
+
+
+
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=s-ali007&" alt="s-ali007" /></p>
