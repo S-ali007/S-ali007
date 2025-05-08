@@ -186,21 +186,41 @@ class AliHassan {
   </a>
 </div>
 
-<!-- ANIMATED SNAKE CONTRIBUTION GRAPH -->
+<!-- PREMIUM ANIMATED SNAKE CONTRIBUTION GRAPH -->
 <h2 align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/213866269-5d00981c-7c98-46d7-8a8e-16f462f15227.gif" width="30px" height="30px" style="max-width: 100%;">
-  Contribution Graph
-  <img src="https://user-images.githubusercontent.com/74038190/213866269-5d00981c-7c98-46d7-8a8e-16f462f15227.gif" width="30px" height="30px" style="max-width: 100%;">
+  <img src="https://em-content.zobj.net/source/microsoft-teams/363/snake_1f40d.png" width="30px" height="30px" style="max-width: 100%;">
+  Contribution Snake Animation
+  <img src="https://em-content.zobj.net/source/microsoft-teams/363/snake_1f40d.png" width="30px" height="30px" style="max-width: 100%;">
 </h2>
 
 <div align="center">
-  <img src="https://github.com/s-ali007/s-ali007/blob/output/github-contribution-grid-snake-dark.svg" width="100%">
+  <picture>
+    <source
+      media="(prefers-color-scheme: dark)"
+      srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg"
+    />
+    <source
+      media="(prefers-color-scheme: light)"
+      srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg"
+    />
+    <img
+      alt="github contribution grid snake animation"
+      src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg"
+      width="100%"
+    />
+  </picture>
 </div>
 
+<!-- RAINBOW ANIMATED SNAKE -->
 <div align="center">
   <a href="#">
-    <img src="https://raw.githubusercontent.com/trinib/snake-gifs/main/github-contribution-grid-snake-dark.svg" width="100%">
+    <img src="https://raw.githubusercontent.com/1999AZZAR/1999AZZAR/main/resources/img/grid-snake.svg" alt="snake animation" width="100%"/>
   </a>
+</div>
+
+<!-- 3D ANIMATED CONTRIBUTION SNAKE -->
+<div align="center">
+  <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/b3fef2db-e671-4610-bb84-e3b627f38786" width="100%">
 </div>
 
 <!-- SUPPORT ME SECTION -->
@@ -219,7 +239,20 @@ class AliHassan {
   </a>
 </div>
 
-<!-- ANIMATED FOOTER -->
+<!-- SNAKE GAME ANIMATION -->
+<div align="center">
+  <h3>Play the Snake Game! Try to control the snake with the arrow keys on my profile!</h3>
+  <a href="https://github.com/s-ali007">
+    <img src="https://raw.githubusercontent.com/CaduceusInc/waleopakunle/main/assets/snake.svg" width="100%">
+  </a>
+</div>
+
+<!-- ANIMATED CONTRIBUTION PATHS -->
+<div align="center">
+  <img src="https://raw.githubusercontent.com/Sutil/Sutil/2b2fad3bf54522bb30c8c170591fc68ff51b69e6/github-contribution-grid-snake2.svg" width="100%">
+</div>
+
+<!-- ANIMATED FOOTER WITH SNAKE -->
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=2,3,8,16,22&height=150&section=footer&animation=twinkling&fontAlignY=75" width="100%">
 </div>
